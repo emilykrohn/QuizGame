@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: Who writes the lyrics?
+  answers:
+  - Suis
+  - Tatsuya
+  - Masack
+  - N-buna
+  correctAnswerIndex: 3

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: What year was Yorushika created?
+  answers:
+  - 2015
+  - 2016
+  - 2017
+  - 2020
+  correctAnswerIndex: 2

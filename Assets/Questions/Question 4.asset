@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What genre of music do they make?
+  answers:
+  - Jazz
+  - Rock
+  - Electronic
+  - Hip hop
+  correctAnswerIndex: 1
